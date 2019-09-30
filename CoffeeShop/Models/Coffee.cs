@@ -13,6 +13,7 @@ namespace CoffeeShop.Models
         public string Description { get; set; }
         [Key]
         public int CoffeeId { get; set; }
+        public string Url { get; set; }
 
 
         public Coffee()
@@ -20,12 +21,13 @@ namespace CoffeeShop.Models
 
         }
 
-        public Coffee(int coffeeId, string coffeeName, string description, string price)
+        public Coffee(int coffeeId, string coffeeName, string description, string price, string url)
         {
             CoffeeId = coffeeId;
             CoffeeName = coffeeName;
             Description = description;
             Price = price;
+            Url = url;
         }
     }
 }
