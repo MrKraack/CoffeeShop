@@ -14,6 +14,12 @@ namespace CoffeeShop.Models
         [Key]
         public int CoffeeId { get; set; }
 
+        public int Strength { get; set; }
+
+        public bool Sugar { get; set; }
+        public bool Milk { get; set; }
+        public bool Cream { get; set; }
+        public bool Syrup { get; set; }
 
         public Coffee()
         {
@@ -26,6 +32,19 @@ namespace CoffeeShop.Models
             CoffeeName = coffeeName;
             Description = description;
             Price = price;
+        }
+
+        public Coffee(int coffeeId, string coffeeName, string description, string price, int strength, bool sugar, bool milk, bool cream, bool syrup)
+        {
+            CoffeeId = coffeeId;
+            CoffeeName = coffeeName;
+            Description = description;
+            Price = price;
+            Strength = strength;
+            Sugar = sugar;
+            Milk = milk;
+            Cream = cream;
+            Syrup = syrup;
         }
     }
 }
