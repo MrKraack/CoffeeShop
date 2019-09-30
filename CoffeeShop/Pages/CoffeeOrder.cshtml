@@ -1,0 +1,35 @@
+﻿@page
+@model CoffeeShop.Pages.CoffeeOrderModel
+@{
+    ViewData["Title"] = "CoffeeOrder";
+
+}
+
+<h1>CoffeeOrder</h1>
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model.Coffees)
+         {
+            <div class="col-4">
+                <div class="card text-center">
+                    <div class="card-body">
+                        <img src=""/>
+                        <div class="card-title">@item.CoffeeName</div>
+                        <div class="card-text">@item.Description</div>
+
+                        <a class="btn btn-success" href="#">Order Now</a>
+
+
+                    </div>
+                    <div>
+
+                    </div>
+
+                </div>
+            </div>
+         }           
+    </div>
+</div>
+
+
+
