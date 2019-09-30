@@ -1,80 +1,80 @@
 [
   {
-    "CoffeeName": "Sort",
+    "CoffeeName": "Sort Kaffe",
     "Price": "jackson",
     "Description": "En dejlig genopfriskende drik",
     "CoffeeId": 0,
-    "Url": "https://github.com/MrKraack/CoffeeShop/blob/master/CoffeeShop/wwwroot/images/Coffees/SortKaffe.jpg"
+    "Url": "https://raw.githubusercontent.com/MrKraack/CoffeeShop/master/CoffeeShop/wwwroot/images/Coffees/SortKaffe.jpg"
   },
   {
     "CoffeeName": "Americano",
     "Price": "jackson",
     "Description": "Espresse blandet med en smule vand",
     "CoffeeId": 1,
-    "Url": "https://github.com/MrKraack/CoffeeShop/blob/master/CoffeeShop/wwwroot/images/Coffees/americano-small.jpg"
+    "Url": "https://raw.githubusercontent.com/MrKraack/CoffeeShop/master/CoffeeShop/wwwroot/images/Coffees/americano-small.jpg"
   },
   {
     "CoffeeName": "Espresso",
     "Price": "jackson",
     "Description": "Bedre kendt som 'Ingen søvn de næste 2 døgn'",
     "CoffeeId": 2,
-    "Url": "https://github.com/MrKraack/CoffeeShop/blob/master/CoffeeShop/wwwroot/images/Coffees/Espresso.jpg"
+    "Url": "https://raw.githubusercontent.com/MrKraack/CoffeeShop/master/CoffeeShop/wwwroot/images/Coffees/Espresso.jpg"
   },
   {
     "CoffeeName": "Varm vand",
     "Price": "jackson",
     "Description": "En kop dejlig varm vand",
     "CoffeeId": 3,
-    "Url": "https://github.com/MrKraack/CoffeeShop/blob/master/CoffeeShop/wwwroot/images/Coffees/Vand.jpg"
+    "Url": "https://raw.githubusercontent.com/MrKraack/CoffeeShop/master/CoffeeShop/wwwroot/images/Coffees/Vand.jpg"
   },
   {
     "CoffeeName": "Cafe latte",
     "Price": "jackson",
     "Description": "Et shot espresso og varm mælk",
     "CoffeeId": 4,
-    "Url": "https://github.com/MrKraack/CoffeeShop/blob/master/CoffeeShop/wwwroot/images/Coffees/CafeLatte.jpg"
+    "Url": "https://raw.githubusercontent.com/MrKraack/CoffeeShop/master/CoffeeShop/wwwroot/images/Coffees/CafeLatte.jpg"
   },
   {
     "CoffeeName": "The",
     "Price": "jackson",
     "Description": "The er altid fantastisk, så prøv vores",
     "CoffeeId": 5,
-    "Url": "https://github.com/MrKraack/CoffeeShop/blob/master/CoffeeShop/wwwroot/images/Coffees/Cup%20of%20Tea.jpg"
+    "Url": "https://raw.githubusercontent.com/MrKraack/CoffeeShop/master/CoffeeShop/wwwroot/images/Coffees/Cup%20of%20Tea.jpg"
   },
   {
     "CoffeeName": "Grøn The",
     "Price": "jackson",
     "Description": "Grøn The, til dem der føler sig lidt fancy",
     "CoffeeId": 6,
-    "Url": "https://github.com/MrKraack/CoffeeShop/blob/master/CoffeeShop/wwwroot/images/Coffees/green-tea.jpg"
+    "Url": "https://raw.githubusercontent.com/MrKraack/CoffeeShop/master/CoffeeShop/wwwroot/images/Coffees/green-tea.jpg"
   },
   {
     "CoffeeName": "Kakao",
     "Price": "jackson",
     "Description": "Kakao er en himmelsk drink",
     "CoffeeId": 7,
-    "Url": "https://github.com/MrKraack/CoffeeShop/blob/master/CoffeeShop/wwwroot/images/Coffees/Kakao.jpg"
+    "Url": "https://raw.githubusercontent.com/MrKraack/CoffeeShop/master/CoffeeShop/wwwroot/images/Coffees/Kakao.jpg"
   },
   {
     "CoffeeName": "Chokolade",
     "Price": "jackson",
     "Description": "Hvis du kan li Kakao, så vil du elske vores Chokolade",
     "CoffeeId": 8,
-    "Url": "https://github.com/MrKraack/CoffeeShop/blob/master/CoffeeShop/wwwroot/images/Coffees/HotChocolateReal.jpg"
+    "Url": "https://raw.githubusercontent.com/MrKraack/CoffeeShop/master/CoffeeShop/wwwroot/images/Coffees/HotChocolateReal.jpg"
   },
   {
     "CoffeeName": "Irsk Kaffe",
     "Price": "jackson",
     "Description": "Top of the mornin to ya lads",
     "CoffeeId": 9,
-    "Url": "https://github.com/MrKraack/CoffeeShop/blob/master/CoffeeShop/wwwroot/images/Coffees/Irish%20coffee.jpg"
+    "Url": "https://raw.githubusercontent.com/MrKraack/CoffeeShop/master/CoffeeShop/wwwroot/images/Coffees/Irish%20coffee.jpg"
   },
   {
     "CoffeeName": "Gløgg",
     "Price": "jackson",
     "Description": "Så det dælme blevet tid til gløgg",
     "CoffeeId": 10,
-    "Url": "https://github.com/MrKraack/CoffeeShop/blob/master/CoffeeShop/wwwroot/images/Coffees/gloegg-opskrift.jpg"
+    "Url": "https://raw.githubusercontent.com/MrKraack/CoffeeShop/master/CoffeeShop/wwwroot/images/Coffees/gloegg-opskrift.jpg"
   }
- ]
+]
 
