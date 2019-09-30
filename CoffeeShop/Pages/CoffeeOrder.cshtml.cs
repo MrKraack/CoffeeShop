@@ -27,5 +27,6 @@ namespace CoffeeShop.Pages
             Coffees = jsonFileService.GetCoffees();
 
         }
+
     }
 }
